@@ -1,0 +1,15 @@
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\bin\Debug\net9.0\Notificador.WhatsApp.Infraestructura.deps.json
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\bin\Debug\net9.0\Notificador.WhatsApp.Infraestructura.dll
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\bin\Debug\net9.0\Notificador.WhatsApp.Infraestructura.pdb
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\bin\Debug\net9.0\Notificador.WhatsApp.Dominio.dll
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\bin\Debug\net9.0\Notificador.WhatsApp.Dominio.pdb
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\obj\Debug\net9.0\Notificador.WhatsApp.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\obj\Debug\net9.0\Notificador.WhatsApp.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\obj\Debug\net9.0\Notificador.WhatsApp.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\obj\Debug\net9.0\Notificador.WhatsApp.Infraestructura.AssemblyInfo.cs
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\obj\Debug\net9.0\Notificador.WhatsApp.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\obj\Debug\net9.0\Notifica.DEB87E81.Up2Date
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\obj\Debug\net9.0\Notificador.WhatsApp.Infraestructura.dll
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\obj\Debug\net9.0\refint\Notificador.WhatsApp.Infraestructura.dll
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\obj\Debug\net9.0\Notificador.WhatsApp.Infraestructura.pdb
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Infraestructura\obj\Debug\net9.0\ref\Notificador.WhatsApp.Infraestructura.dll

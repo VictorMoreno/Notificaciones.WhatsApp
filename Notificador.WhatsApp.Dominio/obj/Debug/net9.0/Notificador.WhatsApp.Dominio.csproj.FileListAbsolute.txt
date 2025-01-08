@@ -1,0 +1,11 @@
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Dominio\bin\Debug\net9.0\Notificador.WhatsApp.Dominio.deps.json
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Dominio\bin\Debug\net9.0\Notificador.WhatsApp.Dominio.dll
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Dominio\bin\Debug\net9.0\Notificador.WhatsApp.Dominio.pdb
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Dominio\obj\Debug\net9.0\Notificador.WhatsApp.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Dominio\obj\Debug\net9.0\Notificador.WhatsApp.Dominio.AssemblyInfoInputs.cache
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Dominio\obj\Debug\net9.0\Notificador.WhatsApp.Dominio.AssemblyInfo.cs
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Dominio\obj\Debug\net9.0\Notificador.WhatsApp.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Dominio\obj\Debug\net9.0\Notificador.WhatsApp.Dominio.dll
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Dominio\obj\Debug\net9.0\refint\Notificador.WhatsApp.Dominio.dll
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Dominio\obj\Debug\net9.0\Notificador.WhatsApp.Dominio.pdb
+C:\Users\victo\RiderProjects\Notificador.WhatsApp\Notificador.WhatsApp.Dominio\obj\Debug\net9.0\ref\Notificador.WhatsApp.Dominio.dll
